@@ -43,6 +43,17 @@ export default function RootLayout({
   return (
     <html lang="pl">
       <head>
+        <link rel="canonical" href="https://www.grubyfx.com/" />
+<meta name="google-site-verification" content="7hS7ibF2CfXMr4gVzftsDGKu-K0Ra6kRsflbaqOUH0I" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3TCWEVR5HR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3TCWEVR5HR');
+</script>
         {/* Meta Pixel Code */}
         <Script id="meta-pixel" strategy="afterInteractive">
           {`
