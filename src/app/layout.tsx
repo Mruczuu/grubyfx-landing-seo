@@ -8,8 +8,8 @@ import SnowEffect from "@/components/SnowEffect";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "TAKE PROFIT GRUBYFX - Bezpłatna społeczność dla traderów",
-  description: "Dołącz do 1000+ traderów! Sygnały, analizy, społeczność - wszystko za darmo. Kalendarz makroekonomiczny, Trading Journal, FedWatch i więcej.",
+  title: "Forex Trading App Learn & Trade Smart | Trusted | Grubyfx",
+  description: "New to forex trading and feeling confused? Learn trading, use signals, practice with a simulator, and join a traders' community. Start learning today with Grubyfx.",
   metadataBase: new URL('https://grubyfx.pl'),
   openGraph: {
     title: "TAKE PROFIT GRUBYFX - Dołącz za darmo!",
